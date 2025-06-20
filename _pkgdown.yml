@@ -1,4 +1,4 @@
-url: ~
+url: https://biothai.github.io/testpkg/
 template:
   bootstrap: 5
   light-switch: true
